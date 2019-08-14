@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Parcelable_Intent_explicit</string>
+    <string name="dial_number">0218391283812</string>
+    <string name="move_with_result"></string>
+    <string name="result_from_activity"></string>
+    <string name="choose_number"></string>
+    <string name="_50"></string>
+    <string name="_100"></string>
+    <string name="_150"></string>
+    <string name="_200"></string>
+</resources>
